@@ -1,3 +1,4 @@
+"""Catálogo de películas y series."""
 class MediaError(Exception):
     """Custom exception for media-related errors."""
     
