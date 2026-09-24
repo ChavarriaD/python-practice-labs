@@ -1,3 +1,4 @@
+"""Configuración de usuario."""
 test_settings = {'theme': 'light', 'language': 'Spanish'}
 
 def add_setting(settings, new_settings):
